@@ -10,15 +10,15 @@ XSSTest works in 3 stages:
 
 ## Requirments
 
-1)Urlparse
-2)Requests
-3)Re
-4)Optparse
+1) Urlparse
+2) Requests
+3) Re
+4) Optparse
 
 pip install -r requirements.txt
 
 ### Download:
 
-1) git clone 
+1) git clone https://github.com/devansh3008/XSSTest.git 
 2) cd XSSTest
 3) python vulnerability_scanner.py -d domain (complete url)
