@@ -16,6 +16,8 @@ Types of XSS:
 2) Reflected
 3) Dom
 
+![Cross-Site-ScriptingXSS](https://user-images.githubusercontent.com/30910269/83174458-0efe2a80-a138-11ea-89b9-d49f96edb647.png)
+
 ### Requirments:
 
 1) Urlparse
